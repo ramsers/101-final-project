@@ -275,7 +275,7 @@ header h2 span {
 }
 
 #gallery .tw-3:hover  {
-    -webkit-box-shadow: 10px 10px 24px 3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 24px 3px rgba(0,0,0,0.65);
     -moz-box-shadow: 10px 10px 24px 3px rgba(0,0,0,0.75);
     box-shadow: 10px 10px 24px 3px rgba(0,0,0,0.75);
 } 
